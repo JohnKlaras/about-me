@@ -46,3 +46,11 @@ ul {
   border-radius: 10px;
   width: auto;
 }
+
+.nav a:hover {
+  color: #FFB2B2;
+}
+
+.content {
+  border: 3px solid black;
+}
