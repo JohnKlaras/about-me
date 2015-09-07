@@ -6,6 +6,12 @@ h1 {
   font-size: 10rem;
   margin-top: 0px;
   margin-bottom: 0px;
+  color: #FFFFFF;
+}
+.mainheader {
+  background-color: #000000;
+  border: 5px solid red;
+  border-radius: 10px;
 }
 img {
   display: block;
@@ -34,8 +40,9 @@ ul {
   list-style-type: none;
   text-align: center;
 }
-div {
+.nav {
   background-color: #000000;
   border: 5px solid red;
+  border-radius: 10px;
   width: auto;
 }
