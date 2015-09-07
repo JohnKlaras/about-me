@@ -11,7 +11,7 @@ h1 {
 .mainheader {
   background-color: #000000;
   border: 5px solid red;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 img {
   display: block;
@@ -53,7 +53,7 @@ ul {
 .nav {
   background-color: #000000;
   border: 5px solid red;
-  border-radius: 10px;
+  border-radius: 20px;
   width: auto;
 }
 
@@ -63,7 +63,7 @@ ul {
 
 .content {
   border: 5px solid black;
-  border-radius: 10px;
+  border-radius: 20px;
   margin-top: 10px;
 }
 
@@ -76,11 +76,22 @@ ul {
 
 .content p {
   text-align: left;
-  font-family: "Quicksand", "Lucida Grande", sans-serif;
+  font-family: 'Copse', serif;
   font-weight: normal;
   font-size: 1.3rem;
+  padding: 0px 5px 5px 5px;
+  margin-top: .25em;
+  margin-bottom: .25em;
 }
 
-body {
+
+.body {
+  border: 15px solid black;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
   font-size: 100%;
+  max-width: 70em;
+  padding: 10px;
 }
