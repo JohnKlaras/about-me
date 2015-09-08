@@ -1,3 +1,4 @@
+
 h1 {
   text-align: center;
   font-family: "Quicksand", "Lucida Grande", sans-serif;
@@ -10,7 +11,7 @@ h1 {
 }
 .mainheader {
   background-color: #000000;
-  border: 5px solid red;
+  border: 10px solid red;
   border-radius: 20px;
 }
 img {
@@ -18,7 +19,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
-  border: 5px solid red;
+  border: 10px solid red;
   border-radius: 100%;
 }
 
@@ -45,20 +46,20 @@ ul {
 .content ul {
   list-style-type: circle;
   text-align: left;
-  font-family: "Quicksand", "Lucida Grande", sans-serif;
+  font-family: 'Niconne', cursive;
   font-weight: 100;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 .nav {
   background-color: #000000;
-  border: 5px solid red;
+  border: 10px solid red;
   border-radius: 20px;
   width: auto;
 }
 
 .nav a:hover {
-  color: #FFB2B2;
+  color: red;
 }
 
 .content {
@@ -70,7 +71,7 @@ ul {
 .content h2 {
   text-align: center;
   font-family: "Quicksand", "Lucida Grande", sans-serif;
-  font-weight: 100;
+  font-weight: normal;
   font-size: 3.5rem;
   }
 
@@ -94,4 +95,6 @@ ul {
   font-size: 100%;
   max-width: 70em;
   padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
