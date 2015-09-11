@@ -54,7 +54,7 @@ img {
   color: #FFFFFF;
 }
 
-ul {
+.nav ul {
   list-style-type: none;
   text-align: center;
 }
@@ -67,6 +67,17 @@ ul {
   font-size: 1.5rem;
   font-weight: bold;
 }
+
+.content ol {
+  list-style-type: roman;
+  text-align: left;
+  font-family: 'Niconne', cursive;
+  font-weight: 100;
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+
 .nav {
   background-color: #000000;
   border: 10px solid red;
@@ -103,7 +114,6 @@ ul {
   margin-top: .25em;
   margin-bottom: .25em;
 }
-
 
 .body {
   border: 15px solid black;
