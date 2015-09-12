@@ -115,7 +115,7 @@ img {
 }
 
 .body {
-  border: 15px solid black;
+  border: 20px double black;
   border-top-left-radius: 200px;
   border-top-right-radius: 200px;
   border-bottom-left-radius: 20px;
