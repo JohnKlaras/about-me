@@ -29,7 +29,7 @@ img {
   width: auto;
   font-size: 3rem;
   font-family: 'Niconne', cursive;
-  font-weight: bold;
+  font-weight: 100;
   font-style: italic;
   margin: 2rem;
 }
@@ -64,8 +64,7 @@ img {
   text-align: left;
   font-family: 'Niconne', cursive;
   font-weight: 100;
-  font-size: 1.5rem;
-  font-weight: bold;
+  font-size: 1.6rem;
 }
 
 .content ol {
@@ -73,8 +72,8 @@ img {
   text-align: left;
   font-family: 'Niconne', cursive;
   font-weight: 100;
-  font-size: 1.5rem;
-  font-weight: bold;
+  font-size: 1.6rem;
+
 
 }
 
